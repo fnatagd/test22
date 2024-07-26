@@ -33,7 +33,7 @@ Section:NewButton("race cliker", "race cliker universal script", function()
 end)
 
 Section:NewButton("pirson life", "pirson life admin", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Denverrz/scripts/master/PRISONWARE_v1.3.txt"))()
 end)
 
 
